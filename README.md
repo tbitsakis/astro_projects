@@ -7,3 +7,6 @@ This repository contains various astronomy projects which I've worked on. You ca
 - Astronomical photometry tools
 - Machine learning techniques in astronomy
 - etc
+
+
+(see also: https://github.com/astrojeff/smac )
